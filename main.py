@@ -6,7 +6,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import CommandStart
 
 # ВСТАВЬ СВОЙ ТОКЕН СЮДА:
-BOT_TOKEN = "8999022213:AAH5RznzWZUlEbdf7DpgjJBbrxewjnrEkTk"
+BOT_TOKEN = "8794922534:AAFgZcdhtgiYvywJh_iauIV7KCc-TRMd_w4"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
